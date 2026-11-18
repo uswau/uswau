@@ -1,4 +1,4 @@
-# Hi, I'm Umer 👋
+# Hi, I'm USWA 👋
 
 **MERN Stack Developer | React · Node.js · MongoDB · Express**
 
@@ -27,6 +27,3 @@ I build fast, responsive, user-friendly full-stack websites for small businesses
 ## 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/uswa-webdev
 - GitHub: https://github.com/uswau
-
----
-*Fresher MERN developer, open to internships and junior roles in Lahore.*
